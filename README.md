@@ -1,11 +1,16 @@
 # EasyBank Scss Project
 
-##### Responsive EasyBank Website was Developed.
+## Responsive EasyBank Website was Developed.
 
-### Used Technologies
+## Used Technologies
 
-##### HTML, CSS & SCSS
+#### HTML, CSS & SCSS
+
+## Picture
+
+![](images/11.jpeg)
 
 ## GIF
 
-![](images)
+
+![](images/gıf.gif)
